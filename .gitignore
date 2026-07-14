@@ -1,0 +1,5 @@
+# Lokale Umgebungsvariablen (API-Keys)
+.env
+*.env
+env/
+venv/
